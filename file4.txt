@@ -1,5 +1,6 @@
 This is File 4
+
 Save some changes
 Good commit
 
-Master Changes
+Master Change
